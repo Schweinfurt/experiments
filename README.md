@@ -1,8 +1,18 @@
-This repo contains the ROS package with the general structure.
+ROS Packages for the spherical robots
 
-Clone this repo in the scripts directory of your catkin_workspace and customize it as per your project requirements.
+## Quick Start
 
-$ roscore
+Open a new terminal and execute the following command:
+
+$ git clone https://github.com/Schweinfurt/experiments.git 
+
+$ chmod +x twist_bolt_control.py 
+
 $ rosrun experiments twist_bolt_control.py
+
+
+## Contribute
+
+We welcome any contributions to this repo!
 
 
